@@ -1,3 +1,8 @@
+/*
+Этот класс осуществляет перевод инфиксной записи выражения в постфиксную для дальнейшего раскрытия скобок.
+ */
+
+
 public class InToPost {
     private Stack theStack;
     private String input;

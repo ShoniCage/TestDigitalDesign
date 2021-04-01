@@ -1,5 +1,9 @@
 import java.util.ArrayList;
 
+/*
+Этот класс позволет перевести входную строку в арифметическое выражение, чтобы перевод в постфиксную запись прошел
+по классическому алгоритму.
+ */
 public class Converter {
     String line;
     ArrayList<Character> list = new ArrayList<>();

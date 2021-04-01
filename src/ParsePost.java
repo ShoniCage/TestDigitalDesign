@@ -1,3 +1,8 @@
+/*
+В этом классе происходит вычисление результата постфиксного выражения, т.е. расскрываются скобки и
+записываются повторяющиеся значения.
+ */
+
 public class ParsePost {
     private StackString theStack;
     private String input;

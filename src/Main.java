@@ -19,6 +19,8 @@ import java.util.Scanner;
 - входная строка всегда валидна.
 
  */
+
+
 public class Main {
     static ArrayList<String> valueIn = new ArrayList<>();
     static String[] symb;
